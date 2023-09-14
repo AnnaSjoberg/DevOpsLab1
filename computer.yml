@@ -1,3 +1,15 @@
 computer: 
   cpu: 
+    manufacturer: God
     cores: 8
+    frequency: 3.3
+  
+  memory: 
+    manufacturer: Jesus
+    size: 64
+    type: great
+    
+  disk: 
+    manufacturer: Spirit
+    size: 123456789
+    type: Holy
