@@ -1,2 +1,8 @@
 car: 
   manufacturer: volvo
+  model: Amazon
+  year: "1975"
+  reg: RIB123
+  attributes:
+    - Ratt i Bakelit
+    - Californiavit
